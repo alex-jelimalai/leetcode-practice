@@ -1,0 +1,19 @@
+/LeetCodeProblems.iml
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+*.idea/
+/$CACHE_FILE$
+/.gitignore
+/misc.xml
+/modules.xml
+/uiDesigner.xml
+/vcs.xml
+*/workspace.xml
+/*.class
+**/*.class
